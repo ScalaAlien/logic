@@ -1,0 +1,10 @@
+e | (a & b) | (d & e & f & (a | c))
+e | (a & b) | (d & e & f & (a | c))
+e | (a & b) | (d & e & f & (a | c))
+(a & b) | (a & c)
+a & b & c
+a & b & c
+(a & b) | (a & c)
+a & b & d & e & (a | c)
+a & b & d & e & (a | c)
+(a & b) | (d & e & (a | c))
